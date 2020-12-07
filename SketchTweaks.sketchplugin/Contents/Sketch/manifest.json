@@ -1,0 +1,35 @@
+{
+  "commands" : [
+      {
+          "script" : "script.js",
+          "handler" : "go",
+          "shortcut" : "",
+          "name" : "Tweaks",
+          "identifier" : "settings"
+      },
+      {
+          "script": "script.js",
+          "handlers": {
+              "actions": {
+                  "Startup" : "go"
+              }
+          }
+      }
+  ],
+  "menu": {
+      "title" : "Tweaks",
+      "isRoot" : true,
+      "items": [
+          "settings"
+      ]
+  },
+  "identifier" : "com.abynim.Propane",
+  "version" : "1.0",
+  "icon" : "icon.tiff",
+  "description" : "Subtle tweaks designed for efficiency",
+  "author" : "Aby Nimbalkar",
+  "name" : "Tweaks",
+  "disableCocoaScriptPreprocessor" : true,
+  "homepage" : "https://github.com/abynim/sketch-tweaks",
+  "appcast" : "https://raw.githubusercontent.com/abynim/sketch-tweaks/master/.appcast.xml"
+}

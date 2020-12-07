@@ -1,0 +1,6 @@
+framework module Propane {
+  umbrella header "Propane.h"
+
+  export *
+  module * { export * }
+}
