@@ -6,51 +6,51 @@
 	<dict>
 		<key>Resources/Assets.car</key>
 		<data>
-		TNYd8OY3qG8nMsL8FKZuXsmH8fE=
+		t52FQINsMUAi5bv+PH7YoYCZY3Y=
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
-		mC+YjoM/kGh86C4UF3vXMeGLm1Q=
+		JO/TcolQb+uhMON3W9mRFshF3O4=
 		</data>
 		<key>Resources/Propane.storyboardc/C0A-ay-EAg-view-I9c-1a-WwH.nib/keyedobjects-110000.nib</key>
 		<data>
-		gFX87sRsundco9xBQNSkOsjnkA4=
+		rMm0biOE5jzXw6D1HYFVhYJd1tg=
 		</data>
 		<key>Resources/Propane.storyboardc/C0A-ay-EAg-view-I9c-1a-WwH.nib/keyedobjects.nib</key>
 		<data>
-		SZEDe65Gx4Z6b5TPdt38DG30sH4=
+		OeZ5IwQ/pwOKvOsgYfVxeVSaBXM=
 		</data>
 		<key>Resources/Propane.storyboardc/ColorTagsVC.nib/keyedobjects-110000.nib</key>
 		<data>
-		ESFXjB16PN11nJOU5NCHgPnmcXA=
+		iLQx3vQWkElnIJQ5ZyMDZvpVTdk=
 		</data>
 		<key>Resources/Propane.storyboardc/ColorTagsVC.nib/keyedobjects.nib</key>
 		<data>
-		ye6WvcazFzhYGb9wd9bShLtmjzY=
+		dV+E50A1wCDhrNJfzILRti6upOc=
 		</data>
 		<key>Resources/Propane.storyboardc/Eai-IA-31d-view-ISn-2Z-ecY.nib/keyedobjects-110000.nib</key>
 		<data>
-		615JMtHqj3PIFTnp4KFnE0mDOVQ=
+		OaBtx/SLeGeb//JihY/4/diHWjE=
 		</data>
 		<key>Resources/Propane.storyboardc/Eai-IA-31d-view-ISn-2Z-ecY.nib/keyedobjects.nib</key>
 		<data>
-		C0A72goegjAdrFW5JZUUYcpwLgA=
+		y8CTlzG2btM5gtGnf16vT6LyiS8=
 		</data>
 		<key>Resources/Propane.storyboardc/Info.plist</key>
 		<data>
-		a4cqqvkngYRGMV9NJ52WPmNNmiA=
+		AwLhPeBrOADAqW+wu5yU6CFtN58=
 		</data>
 		<key>Resources/Propane.storyboardc/NSWindowController-6ti-8c-KfL.nib/keyedobjects-110000.nib</key>
 		<data>
-		vkeiKXR5qZhlPmzEEzdYgSnlruY=
+		b7f9Diar0+0SsSmikPt41gMuDrs=
 		</data>
 		<key>Resources/Propane.storyboardc/NSWindowController-6ti-8c-KfL.nib/keyedobjects.nib</key>
 		<data>
-		mWSNwmMFegsO+0plJPlWxN/JKBo=
+		w+U4PsrDGJWQ1XBSHKa9TksCCCs=
 		</data>
 		<key>Resources/Propane.storyboardc/OGP-Jv-ghO-view-A2K-ea-jfB.nib/keyedobjects-110000.nib</key>
 		<data>
-		IAIKmnQImR+FRDdFx5tgPiQoQno=
+		xae1pRpvk7THfGxXCkOeWt1K7Jk=
 		</data>
 		<key>Resources/Propane.storyboardc/OGP-Jv-ghO-view-A2K-ea-jfB.nib/keyedobjects.nib</key>
 		<data>
@@ -58,23 +58,39 @@
 		</data>
 		<key>Resources/Propane.storyboardc/Q0t-Zl-vCT-view-R37-92-goC.nib/keyedobjects-110000.nib</key>
 		<data>
-		NQQ7fonLBgwyR6Eu9RKr4BxmsT0=
+		DMjkdXZAbhDJdb21VJmgJBJ4R3Q=
 		</data>
 		<key>Resources/Propane.storyboardc/Q0t-Zl-vCT-view-R37-92-goC.nib/keyedobjects.nib</key>
 		<data>
-		unWFU6QYrJVc54pQnLfhPgaMYpY=
+		Ry/ecQthtKKwT94aaS2nU0teTaw=
 		</data>
 		<key>Resources/Propane.storyboardc/cbS-Fr-FyK-view-fXP-MC-Fvn.nib/keyedobjects-110000.nib</key>
 		<data>
-		IxLXZJ16dx92bYmqWd+llvQ7hOg=
+		s+PZtrZDYyh2hYonRTV4FH/hvMI=
 		</data>
 		<key>Resources/Propane.storyboardc/cbS-Fr-FyK-view-fXP-MC-Fvn.nib/keyedobjects.nib</key>
 		<data>
-		xvzpHNu0sQap5ZmS7LuHkDbEebA=
+		DRBvPTfFfOp2cbxWsJY/EQOsxxs=
+		</data>
+		<key>Resources/Propane.storyboardc/collapseGroupsVC.nib/keyedobjects-110000.nib</key>
+		<data>
+		qoRKJC11TI5b/1t2S5Fks/+rAK4=
+		</data>
+		<key>Resources/Propane.storyboardc/collapseGroupsVC.nib/keyedobjects.nib</key>
+		<data>
+		hWbXgFVtXZJXTlWmHnZp/eMlyec=
+		</data>
+		<key>Resources/Propane.storyboardc/dO8-HK-slE-view-qdG-KS-PHf.nib/keyedobjects-110000.nib</key>
+		<data>
+		Dk1uEkBUG7jXu9C6K06ZCbJ2Juo=
+		</data>
+		<key>Resources/Propane.storyboardc/dO8-HK-slE-view-qdG-KS-PHf.nib/keyedobjects.nib</key>
+		<data>
+		o0qEEswytHUTg2ZLjPO6smYUmsY=
 		</data>
 		<key>Resources/Propane.storyboardc/igF-NO-vR2-view-pjf-Ma-YFe.nib/keyedobjects-110000.nib</key>
 		<data>
-		RvYUmpAYACR+5C3+5KxhaSdwmxI=
+		eTrRGtnCJtI2IzFQ5Sjfc0iFRRA=
 		</data>
 		<key>Resources/Propane.storyboardc/igF-NO-vR2-view-pjf-Ma-YFe.nib/keyedobjects.nib</key>
 		<data>
@@ -82,11 +98,11 @@
 		</data>
 		<key>Resources/Propane.storyboardc/rnO-z4-n5J-view-zvD-c7-4Co.nib/keyedobjects-110000.nib</key>
 		<data>
-		5+bJG0z53jfxVMtefJJ57FzkJ4E=
+		jOAy/f1vfgt2T7vwJrXQgd6+XNA=
 		</data>
 		<key>Resources/Propane.storyboardc/rnO-z4-n5J-view-zvD-c7-4Co.nib/keyedobjects.nib</key>
 		<data>
-		j2FM7f+nxqS1Cnt/6Au5kiYYAzQ=
+		Cm42PGzjaN+fUl446FzEzlkMQPE=
 		</data>
 		<key>Resources/script.js</key>
 		<data>
@@ -106,84 +122,84 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3QV2ZYcGCaLGZJ8a1+HA43eV46gikWXmrffZYtR7WMg=
+			3Vv+VIxRnomrR6+LacAr3wr4ybzCfh3l2BrvJh+Wg4E=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jchzeuYAJQCMyo5UP0FlVZX4b1VrmEBLjy8KtiUL/p0=
+			TvQindD05pwCgGdzUqydAKW8WqkeGXIMcNvMUOd5Iek=
 			</data>
 		</dict>
 		<key>Resources/Propane.storyboardc/C0A-ay-EAg-view-I9c-1a-WwH.nib/keyedobjects-110000.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			d07STjd+nt1Jd6cYM+1eEFJJPz5jQKv57wjPAGmY41w=
+			GKhIb1Nshsi0/lGoD9YEM6xMYEXvD1AnpH3D1YE3QFc=
 			</data>
 		</dict>
 		<key>Resources/Propane.storyboardc/C0A-ay-EAg-view-I9c-1a-WwH.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BM5YVWmM/a/uYE961wRYmnfnDlgi6MESNhFqSRaTtNk=
+			g7BihNRCZBnn4UL+BXqgZB2g1zE2iTKWWahcb3M6aCI=
 			</data>
 		</dict>
 		<key>Resources/Propane.storyboardc/ColorTagsVC.nib/keyedobjects-110000.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TaQXC4LQLsIY6lcWgVh1qLtqnRbyVrkuFSpa6V/nX/g=
+			LLWI+2MiVwAXQF48PBkND2GT4eeCMD5ZeNV4c5tFcOU=
 			</data>
 		</dict>
 		<key>Resources/Propane.storyboardc/ColorTagsVC.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/uX4jf4YrUqiX6mKEExLPmNOQ/4SvRc3QQOK1vVpeZc=
+			arw/1d43Rhnyd8wTpH7Qm0egipC2lK5uMTXinML7ozo=
 			</data>
 		</dict>
 		<key>Resources/Propane.storyboardc/Eai-IA-31d-view-ISn-2Z-ecY.nib/keyedobjects-110000.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+TZ3f7xW+uy9iDDU/BY01sR/LSXkNxrfy7N7MqlETyM=
+			aHeCb+0nqc8Mf1Oniqu54JU5ZugNBY3ljvBqOPlIIfE=
 			</data>
 		</dict>
 		<key>Resources/Propane.storyboardc/Eai-IA-31d-view-ISn-2Z-ecY.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7HS9QR8CgKlbkjIdtRK+q5Ey1KYYwH0MAMZf32x7x5w=
+			boxjDWNuF1mny6jul7+4nDKdjdeh77FbuUMqk7R08D0=
 			</data>
 		</dict>
 		<key>Resources/Propane.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WaOrvikx97QjEVfEDMCJFxTXAWYOEICmkZuwc1qanLw=
+			sumi1y8KEjobV81aotkJbh1nVM2H+bjdPZfxgEe21zs=
 			</data>
 		</dict>
 		<key>Resources/Propane.storyboardc/NSWindowController-6ti-8c-KfL.nib/keyedobjects-110000.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GhpAb9F6eOP3HJT2DQ61yE/3lQtzU7ja8ue7wS1ds54=
+			NSGovWw+eT18o0L+8puZAKf3NReS1lrup8z12k6MOoU=
 			</data>
 		</dict>
 		<key>Resources/Propane.storyboardc/NSWindowController-6ti-8c-KfL.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Xj0w7uSkuNMNKj85wTtgRa5/jdi9DxzOKxTAyowTePI=
+			+MNFBqjiHkWbHd50aluEkBnL8GVuav4otOcMMGyz1oE=
 			</data>
 		</dict>
 		<key>Resources/Propane.storyboardc/OGP-Jv-ghO-view-A2K-ea-jfB.nib/keyedobjects-110000.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			morIPwkQPfIoMi6qZp/I1whajLo9JWvpWFdWwerurJo=
+			2fxkNOcWB4/79dpvuiOadRKv0znt7l5mwdJZFYi2Rbs=
 			</data>
 		</dict>
 		<key>Resources/Propane.storyboardc/OGP-Jv-ghO-view-A2K-ea-jfB.nib/keyedobjects.nib</key>
@@ -197,35 +213,63 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			f+wUs8yfPGm3XQFOTLxkqKDhKpz9l7P8lEz93WMfZ3g=
+			tCG5w4MTFyisaTtC+pjg+E/jtT4bxUsIhxeeCwX7dGU=
 			</data>
 		</dict>
 		<key>Resources/Propane.storyboardc/Q0t-Zl-vCT-view-R37-92-goC.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VTtRfaAkz7H20jJjYcK5j+0laxpl6a45imsVq3/bFoQ=
+			yQxf+R07/gIYjN1pytG93UT37NH1n8L63JIeNMt+tfk=
 			</data>
 		</dict>
 		<key>Resources/Propane.storyboardc/cbS-Fr-FyK-view-fXP-MC-Fvn.nib/keyedobjects-110000.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mTq7lp/g2atAicPYkz+s6yfEUjsPEmTxXhZP122cerI=
+			c+TCIGNuefX1zde/oy8VNxcgSkYMajMLeqgjN1DaLdo=
 			</data>
 		</dict>
 		<key>Resources/Propane.storyboardc/cbS-Fr-FyK-view-fXP-MC-Fvn.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BeDxVw6a60Tcgy4VPpZwo82k6iL0CHe9dN4M/ub0qaM=
+			goJlztE51yaNQQ3QGdwW+qNeniHlCHyT+1bp6q6ctwU=
+			</data>
+		</dict>
+		<key>Resources/Propane.storyboardc/collapseGroupsVC.nib/keyedobjects-110000.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uq2K6TfF45hOoeOhDCrfRCzRnsloxfGI9//O2I2wgNo=
+			</data>
+		</dict>
+		<key>Resources/Propane.storyboardc/collapseGroupsVC.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RHKbyjwSZAiK14+ExjoBF13KsAiDjbBs5I/dUs7b/wY=
+			</data>
+		</dict>
+		<key>Resources/Propane.storyboardc/dO8-HK-slE-view-qdG-KS-PHf.nib/keyedobjects-110000.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AeeDIxysVYLsrWMqdCkLmMDSr1u4aAGPBiN7NjG7CAM=
+			</data>
+		</dict>
+		<key>Resources/Propane.storyboardc/dO8-HK-slE-view-qdG-KS-PHf.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eSkopRZaPDLXIH17dvol0Zk/2cP7VsPCWwMlLVb5neQ=
 			</data>
 		</dict>
 		<key>Resources/Propane.storyboardc/igF-NO-vR2-view-pjf-Ma-YFe.nib/keyedobjects-110000.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Dhd1TZXZ6XpYfuBs/kJFQaKnYB2HejGvwPmjIU7Gnpk=
+			yM/uuk+Lg17ErKe/+RUPh0ytvefA2a7fx5aYygV6H8o=
 			</data>
 		</dict>
 		<key>Resources/Propane.storyboardc/igF-NO-vR2-view-pjf-Ma-YFe.nib/keyedobjects.nib</key>
@@ -239,14 +283,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JYl+ctM1UiU/53ldo3NPmTpcbm+vfV+kV4MrhhkQvyg=
+			bcpYnsAnGlB1479N5PgYATRmMlQADh10PymF7+9Uwdc=
 			</data>
 		</dict>
 		<key>Resources/Propane.storyboardc/rnO-z4-n5J-view-zvD-c7-4Co.nib/keyedobjects.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			N0gLShBAQLQF9aQCxycL4pJ6TPA9/FFoNTaZ8P1rrbU=
+			6sepv6p8DaNsqn0DNu0B8O5phuPZnPVUtmrOzA1FZ8o=
 			</data>
 		</dict>
 		<key>Resources/script.js</key>
