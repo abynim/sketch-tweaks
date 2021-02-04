@@ -45,13 +45,13 @@ A simple button, perfectly positioned above the layer list to help you perform t
 
 Hint: Option+Click the button to collapse all artboards and groups except the layers you have selected.
 
-### Vector Handles
+## Vector Handles
 
 The default handles for vector editing are a tad difficult to see on gray backgrounds. Tweaks replaces those handles with high-contrast handles that are clearly visible on all backgrounds.
 
 <img src="img/vector-handles@2x.png?raw=true" width="311" alt="Vector Handles Preview">
 
-### Save Locally
+## Save Locally
 
 Save Locally adds an option in the File Menu to directly show the standard Save dialog for saving documents locally. This lets you skip the 3-step process of saving new files to you Mac if you're not using Sketch Cloud.
 
