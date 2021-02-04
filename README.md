@@ -55,7 +55,7 @@ The default handles for vector editing are a tad difficult to see on gray backgr
 
 Save Locally adds an option in the File Menu to directly show the standard Save dialog for saving documents locally. This lets you skip the 3-step process of saving new files to you Mac if you're not using Sketch Cloud.
 
-<img src="img/save-local@2x.png?raw=true" width="311" alt="Save Locally Preview">
+<img src="img/save-local@2x.png?raw=true" width="398" alt="Save Locally Preview">
 
 ---
 
